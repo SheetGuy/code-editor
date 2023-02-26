@@ -116,7 +116,7 @@ textarea {
 
 .CodeMirror,
 .preview {
-   height: 93.6vh !important;
+   height: 92.6vh !important;
 }
 
 #html-ic {
@@ -146,7 +146,7 @@ textarea {
 
 @media screen and (max-width: 768px) {
    .CodeMirror, .preview {
-      height: 86vh !important;
+      height: 85vh !important;
    }
 }
 
